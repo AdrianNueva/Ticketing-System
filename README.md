@@ -37,7 +37,12 @@ Run the project:
   Start Apache and MySQL in XAMPP
   Access the system at:
   http://localhost/ict_service_request/homepage.php
-
-
+Developer
+ Adrian Emmanuel Nueva
+📄 License
+This project is intended for **educational and internal use only** by the Department of Education – Division of General Trias City.  
+**Not licensed for public distribution or commercial use.**
+🖼️ Screenshots 
+ To view the screenshots, go to the [screenshots folder]
 
 
